@@ -1,0 +1,20 @@
+{
+    "students":
+    [
+        {
+            "id":7058,
+            "name":"studente uno",
+            "class":"5Di"
+        },
+        {
+            "id":7059,
+            "name":"studente due",
+            "class":"5Fi"
+        },
+        {
+            "id":7070,
+            "name":"studente tre",
+            "class":"5Fi"
+        }
+    ]
+}
